@@ -1483,7 +1483,7 @@
 									"parentStyle": true,
 									"left": 277,
 									"top": 245,
-									"width": 101.75537109375,
+									"width": 101,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8NplZIAPh0="
@@ -1693,7 +1693,7 @@
 									"parentStyle": true,
 									"left": 265,
 									"top": 365,
-									"width": 80.04638671875,
+									"width": 79,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8ONt5IuWaM="
@@ -1903,7 +1903,7 @@
 									"parentStyle": true,
 									"left": 464.5,
 									"top": 317,
-									"width": 78.61181640625,
+									"width": 78,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8PzqpJmT1s="
@@ -2113,7 +2113,7 @@
 									"parentStyle": true,
 									"left": 653.5,
 									"top": 301,
-									"width": 103.9072265625,
+									"width": 103,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8QUQZKVTS0="
@@ -3394,7 +3394,7 @@
 									"parentStyle": true,
 									"left": 388,
 									"top": 157,
-									"width": 96.658203125,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8Vc7JoIrmw="
@@ -3799,7 +3799,7 @@
 									"parentStyle": true,
 									"left": 60,
 									"top": 437,
-									"width": 133.5,
+									"width": 132,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8cY26Hfzho="
@@ -4692,7 +4692,7 @@
 									"parentStyle": true,
 									"left": 483.5,
 									"top": 477,
-									"width": 94.49365234375,
+									"width": 94,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8i3PrsWmIU="
@@ -5184,7 +5184,7 @@
 									"parentStyle": true,
 									"left": 674,
 									"top": 125,
-									"width": 86.4130859375,
+									"width": 86,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8l2t8leSuA="
@@ -5394,7 +5394,7 @@
 									"parentStyle": true,
 									"left": 729.5,
 									"top": 229,
-									"width": 121.2744140625,
+									"width": 120,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGXM8oswMpY4Fg="
@@ -9307,7 +9307,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9HtUD8/tFg="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9315,7 +9316,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9HtUD8/tFg="
 							},
-							"name": "Hoten"
+							"name": "Hoten",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9323,7 +9325,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9HtUD8/tFg="
 							},
-							"name": "GioiTinh"
+							"name": "GioiTinh",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9331,7 +9334,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9HtUD8/tFg="
 							},
-							"name": "Ngaysinh"
+							"name": "Ngaysinh",
+							"type": ""
 						}
 					]
 				},
@@ -9364,7 +9368,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9H2Nj9orLM="
 							},
-							"name": "Số năm kinh nghiệm"
+							"name": "Số năm kinh nghiệm",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9372,7 +9377,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9H2Nj9orLM="
 							},
-							"name": "Khoa"
+							"name": "Khoa",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9380,7 +9386,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9H2Nj9orLM="
 							},
-							"name": "Môn học giảng dạy"
+							"name": "Môn học giảng dạy",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9431,7 +9438,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9H63T+RqJU="
 							},
-							"name": "MSSV"
+							"name": "MSSV",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9439,7 +9447,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGXM9H63T+RqJU="
 							},
-							"name": "Khóa"
+							"name": "Khóa",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -13219,6 +13228,20 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGXL+IMAy1XG/0="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGXT9QzqMp6R2s=",
+							"_parent": {
+								"$ref": "AAAAAAGXL78uaSm+9zM="
+							},
+							"font": "Arial;20;0",
+							"parentStyle": false,
+							"left": 72,
+							"top": 1136,
+							"width": 360,
+							"height": 52,
+							"text": "Fork: là điểm mà một luồng công việc tách ra thành nhiều nhánh song song"
 						}
 					]
 				}
